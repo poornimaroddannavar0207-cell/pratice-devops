@@ -1,0 +1,2 @@
+# pratice-devops
+first practice
